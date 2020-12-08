@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [suposhop](https://www.suposhop.com/)
 
-- 🌱 I’m currently learning **React,Flask,Restful Api using python,django**
+- 🌱 I’m currently learning **Flask,Restful Api using python,django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saitharunsai/portfolio](https://github.com/saitharunsai/portfolio)
 
@@ -17,7 +17,7 @@
  
 - 💻 Hackerrank profile [https://www.hackerrank.com/janagamsaitarun](https://www.hackerrank.com/janagamsaitarun)
  
-- 💬 Ask me about **react,flask,html,css,javascript**
+- 💬 Ask me about **react,flask,html,css,javascript,python**
 
 - 📫 How to reach me **janagamasaitharun@gmail.com**
 
