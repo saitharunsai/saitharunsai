@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flask,Restful Api using python,django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saitharunsai/portfolio](https://github.com/saitharunsai/portfolio)
+- 👨‍💻 All of my projects are available at [https://saitharunsai.github.io/portfolio/](https://saitharunsai.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://flaskblogsai.herokuapp.com/](https://flaskblogsai.herokuapp.com/)
  
