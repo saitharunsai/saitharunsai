@@ -5,7 +5,7 @@
 
 
 
-//<p align="left"> <a href="https://twitter.com/janagama018" target="blank"><img src="https://img.shields.io/twitter/follow/janagama018?logo=twitter&style=for-the-badge" alt="janagama018" /></a> </p>//
+
 
 - 🔭 I’m currently working on [suposhop](https://www.suposhop.com/)
 
