@@ -19,9 +19,12 @@
 
 - 📫 How to reach me **janagamasaitharun@gmail.com**
 
+![My Codewarrior Profile Badge](https://www.codewars.com/users/saitharun018/badges/large)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janagama018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janagama018" height="30" width="40" /></a>
+
 <a href="https://fb.com/j.saitharun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="j.saitharun" height="30" width="40" /></a>
 <a href="https://instagram.com/saitharun__goud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saitharun__goud" height="30" width="40" /></a>
 </p>
