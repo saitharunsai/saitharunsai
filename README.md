@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **janagamasaitharun@gmail.com**
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/saitharun018/badges/large)
+<!---  ![My Codewarrior Profile Badge](https://www.codewars.com/users/saitharun018/badges/large) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
