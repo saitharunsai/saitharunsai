@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharunsai&label=Profile%20views&color=0e75b6&style=flat" alt="saitharunsai" /> </p>
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 💻 Google Clone Made using React (https://gclone-017.web.app/)
 
