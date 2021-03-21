@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [suposhop](https://www.suposhop.com/)
 
-- 🌱 I’m currently learning **Flask,Restful Api using python,django**
+- 🌱 I’m currently learning **ReactNative,Restful Api using python,django**
 
 - 📝 I regularly write articles on [https://flaskblogsai.herokuapp.com/](https://flaskblogsai.herokuapp.com/)
  
 - 💻 Hackerrank profile [https://www.hackerrank.com/janagamsaitarun](https://www.hackerrank.com/janagamsaitarun)
  
-- 💬 Ask me about **react,flask,html,css,javascript,python**
+- 💬 Ask me about **react,flask,html,css,javascript,python,ReactNative**
 
 - 📫 How to reach me **janagamasaitharun@gmail.com**
 
